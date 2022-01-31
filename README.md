@@ -12,7 +12,7 @@ Data Preprocessing
 For this analysis and model, the target is held in IS_SUCCESSFUL field.
 
 # The following variable(s) should be considered on features model
-ORGANIZATION
+## ORGANIZATION
 STATUS
 INCOME_AMT
 SPECIAL_CONSIDERATIONS
